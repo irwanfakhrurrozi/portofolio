@@ -1,3 +1,2 @@
 # portofolio
-my portofolio 
-Masih dalam tahap belajar ini adalah codingan pertama saya membuat frontend sederhana dengan html dan css.
+Masih dalam tahap belajar pemrograman sederhana membuat web portofolio dengan menggunakan html dan css
